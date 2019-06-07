@@ -1,0 +1,5 @@
+array = input("Enter some number with comma saperated")
+list = array.split(",")
+tupple = tuple(list)
+print("list ",list)
+print("tupple ",tupple)
